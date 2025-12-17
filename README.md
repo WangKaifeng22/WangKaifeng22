@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Wang Kaifeng, a fourth year undergraduate student studying in Ocean University of China. 
+I would finish my master's degree in BUAA from 2026 to 2029.
 
 <!--
 **WangKaifeng22/WangKaifeng22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
